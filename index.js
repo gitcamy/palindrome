@@ -16,6 +16,6 @@ function Phrase(content) {
 
     //Returns true for a palindrome, false otherwise
     this.palindrome = function palindrome() {                     
-        return this.processedContent() === reverse(this.processedContent());
+        return this.processedContent() === this.processedContent().reverse();
     };
 }
