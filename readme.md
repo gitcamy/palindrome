@@ -1,12 +1,12 @@
-*Phrase Object: With Palindrome Detector*
-This is a sample NPM Module created with Learn Enough JavaScript to Be Dangerous by Micheal Hartl.
+#Phrase Object: With Palindrome Detector
+This is a sample NPM Module created with [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/course/javascript) by Micheal Hartl.
 
 The module can be used as follows:
 
-$ npm install --global mhartl-palindrome
-$ vim test.js
-let Phrase = require("mhartl-palindrome");
-let napoleonsLament = new Phrase("Able was I, ere I saw Elba.");
-console.log(napoleonsLament.palindrome());
-$ node test.js
-true
+>$ npm install --global mhartl-palindrome
+>$ vim test.js
+>let Phrase = require("mhartl-palindrome");
+>let napoleonsLament = new Phrase("Able was I, ere I saw Elba.");
+>console.log(napoleonsLament.palindrome());
+>$ node test.js
+>true
