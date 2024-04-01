@@ -1,4 +1,4 @@
-Phrase Object: With Palindrome Detector
+*Phrase Object: With Palindrome Detector*
 This is a sample NPM Module created with Learn Enough JavaScript to Be Dangerous by Micheal Hartl.
 
 The module can be used as follows:
